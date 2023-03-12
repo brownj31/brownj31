@@ -1,0 +1,59 @@
+---
+title: "Recipes"
+format: html
+editor: visual
+toc: true
+toc-depth: 2
+smooth-scroll: true
+---
+```{r child="bacon_marmalade_burgers/burgers.qmd"}
+
+```
+
+```{r child="baklava/baklava.qmd"}
+
+```
+
+```{r child="cinnamon_rolls/cinnamon_rolls.qmd"}
+
+```
+
+```{r child="crunchwraps/crunchwraps.qmd"}
+
+```
+
+```{r child="doughnuts/doughnuts.qmd"}
+
+```
+
+```{r child="dumplings/dumplings.qmd"}
+
+```
+
+```{r child="fish_n_chips/fish_n_chips.qmd"}
+
+```
+
+```{r child="mommiyama/mommiyama.qmd"}
+
+```
+
+```{r child="oatmeal_chocolate_chip_cookie/cookie.qmd"}
+
+```
+
+```{r child="orange_chicken/orange_chicken.qmd"}
+
+```
+
+```{r child="philly_cheesesteaks/philly_cheesesteaks.qmd"}
+
+```
+
+```{r child="pizza/pizza.qmd"}
+
+```
+
+```{r child="stromboli/stromboli.qmd"}
+
+```
