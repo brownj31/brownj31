@@ -6,6 +6,7 @@ toc: true
 toc-depth: 2
 smooth-scroll: true
 ---
+
 ```{r child="bacon_marmalade_burgers/burgers.qmd"}
 
 ```
