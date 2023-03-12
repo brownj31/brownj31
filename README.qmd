@@ -1,6 +1,6 @@
 ---
 title: "Recipes"
-format: html
+format: gfm
 editor: visual
 toc: true
 toc-depth: 2
