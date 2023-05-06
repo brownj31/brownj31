@@ -221,6 +221,27 @@ used most often.
 
 ### Ingredients
 
+#### Yum Yum Sauce
+
+**Note**: I normally double the yum yum sauce recipe.
+
+- $1 \frac{1}{4}$ cups mayonnaise
+- $\frac{1}{4}$ cup water
+- $1$ tbsp melted butter
+- $1$ tsp tomato paste
+- $1$ tsp white sugar
+- $\frac{1}{2}$ tsp garlic powder
+- $\frac{1}{4}$ tsp paprika
+- $1$ pinch cayenne pepper
+
+#### Fried Rice
+
+- $1$ cup rice
+- $1$ lb chicken tenderloin (don’t use breasts or thighs)
+- $1$ large zucchini
+- $1$ container of white mushrooms
+- Soy sauce to taste
+
 ### Directions
 
 ## Oatmeal Chocolate Chip Cookies
