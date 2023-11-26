@@ -1,0 +1,20 @@
+## Chocolate Chip Bundt Cake
+
+![](chocolate_chip_bundt_cake/chocolate_chip_bundt_cake.JPG){width="300"}
+
+### Ingredients
+
+-   $4$ eggs
+-   $1$ [package Duncan Hines yellow cake mix](https://www.kroger.com/p/duncan-hines-classic-yellow-cake-mix/0064420930749)
+-   $1$ [small instant vanilla pudding](https://www.kroger.com/p/jell-o-vanilla-instant-pudding-pie-filling-mix/0004300020433?searchType=default_search)
+-   $\frac{1}{2}$ cup vegetable oil
+-   $1$ cup water
+-   $\frac{1}{2}$ [bar german chocolate](https://www.walmart.com/ip/Baker-s-German-s-Sweet-Chocolate-Premium-Baking-Bar-with-48-Cacao-4-oz-Box/24183295?wmlspartner=wlpa&selectedSellerId=101383980&adid=2222222222724183295_101383980_149701828050_20615956507&wl0=&wl1=g&wl2=c&wl3=676757556947&wl4=pla-2279635047967&wl5=9007293&wl6=&wl7=&wl8=&wl9=pla&wl10=757788859&wl11=online&wl12=24183295_101383980&veh=sem&gad_source=1&gclid=EAIaIQobChMI27zSjMPiggMVUGNHAR0lpACyEAQYASABEgJzEfD_BwE) ($4$ oz)
+-   $6$ oz semi-sweet chocolate chips
+
+### Directions
+
+1.  Finely chop $4$ oz german chocolate bar.
+2.  Mix all ingredients thoroughly in a large bowl.
+3.  Bake in a greased bundt pan at $325^\circ F$ for $1$ hour.
+4.  Dust with powdered sugar.
