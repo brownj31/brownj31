@@ -1,8 +1,37 @@
-## Baklava
+## [Baklava](https://www.youtube.com/watch?v=uxJe1cEr1Ts&t=10s)
 
 ![](baklava/baklava.jpeg){width="300"}
 
 ### Ingredients
 
+-   $1$ package of frozen [phyllo dough](https://www.kroger.com/p/athens-phyllo-dough-pastry-sheets/0007219600107)
+-   $3$ sticks unsalted butter, melted
+
+#### Filling
+
+-   $2\frac{3}{4}$ cups walnuts, crushed
+-   $1$ tbsp cinnamon
+-   $1$ tsp allspice
+-   $\frac{1}{4}$ tsp nutmeg
+
+#### Syrup
+
+-   $\frac{1}{2}$ cup white sugar
+-   $1$ cup water
+-   $\frac{1}{2}$ tsp salt
+-   $1$ cup honey
 
 ### Directions
+
+1.  Preheat oven to $400^\circ F$.
+2.  Brush the bottom of a $9 \times 13$ inch baking dish with melted butter.
+3.  Make the filling by mixing $2\frac{3}{4}$ cups walnuts, $1$ tbsp cinnamon, $1$ tsp allspice, and $\frac{1}{4}$ tsp nutmeg until thoroughly combined.
+4.  Add $1$ sheet of phyllo dough to the baking dish and brush the top of it with butter. Repeat this until there are $14$ sheets of dough stacked on top of each other.
+5.  Add the walnut filling on top of the $14^{\text{th}}$ sheet of dough. Add a little bit of butter on top of the filling.
+6.  Add $14$ more sheets of phyllo dough on top of the filling, and brush each with butter.
+7.  Cut into rectangles.
+8.  Bake for $30-35$ minutes.
+9.  While the baklava is in the oven, heat a saucepan over medium high heat.
+10. To the saucepan, add $\frac{1}{2}$ cup white sugar, $1$ cup water, $\frac{1}{2}$ tsp salt, and $1$ cup honey.
+11. Let the syrup boil, and reduce the heat to medium. Then let it reduce for $5-7$ minutes until it reaches a very light syrupy consistency.
+12. When the dough is finished baking, pour the syrup on top of the cooked baklava, and let it cool.
