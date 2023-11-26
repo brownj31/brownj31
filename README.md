@@ -1,23 +1,18 @@
-Recipes
-================
+# Recipes
 
-- <a href="#bacon-marmalade-burgers"
-  id="toc-bacon-marmalade-burgers">Bacon Marmalade Burgers</a>
-- <a href="#baklava" id="toc-baklava">Baklava</a>
-- <a href="#cinnamon-rolls" id="toc-cinnamon-rolls">Cinnamon Rolls</a>
-- <a href="#crunchwraps" id="toc-crunchwraps">Crunchwraps</a>
-- <a href="#doughnuts" id="toc-doughnuts">Doughnuts</a>
-- <a href="#dumplings" id="toc-dumplings">Dumplings</a>
-- <a href="#fisn-n-chips" id="toc-fisn-n-chips">Fisn ‘N’ Chips</a>
-- <a href="#mommiyama" id="toc-mommiyama">Mommiyama</a>
-- <a href="#oatmeal-chocolate-chip-cookies"
-  id="toc-oatmeal-chocolate-chip-cookies">Oatmeal Chocolate Chip
-  Cookies</a>
-- <a href="#orange-chicken" id="toc-orange-chicken">Orange Chicken</a>
-- <a href="#philly-cheesesteaks" id="toc-philly-cheesesteaks">Philly
-  Cheesesteaks</a>
-- <a href="#pizza" id="toc-pizza">Pizza</a>
-- <a href="#stromboli" id="toc-stromboli">Stromboli</a>
+- [Bacon Marmalade Burgers](#bacon-marmalade-burgers)
+- [Baklava](#baklava)
+- [Cinnamon Rolls](#cinnamon-rolls)
+- [Crunchwraps](#crunchwraps)
+- [Doughnuts](#doughnuts)
+- [Dumplings](#dumplings)
+- [Fisn ‘N’ Chips](#fisn-n-chips)
+- [Mommiyama](#mommiyama)
+- [Oatmeal Chocolate Chip Cookies](#oatmeal-chocolate-chip-cookies)
+- [Orange Chicken](#orange-chicken)
+- [Philly Cheesesteaks](#philly-cheesesteaks)
+- [Pizza](#pizza)
+- [Stromboli](#stromboli)
 
 ## Bacon Marmalade Burgers
 
@@ -280,6 +275,14 @@ used most often.
     combine.
 4.  Stir in $2\frac{2}{3}$ cups Nestle Tollhouse semi-sweet chocolate
     chips and $1\frac{3}{4}$ cups chopped walnuts.
+5.  Portion dough with an ice cream scoop (about $3$ tbsp) and roll into
+    tall cylinders. To make the dough less sticky, it is helpful to
+    refrigerate it for $30$ minutes prior to portioning.
+6.  Let portioned dough freeze overnight.
+7.  Line a baking sheet with parchment paper. **Do NOT use cooking
+    spray. It will make the dough flatten too much.**
+8.  Bake at $300^\circ F$ for $22$ minutes. Let cool for 30 minutes to
+    allow cookies to set.
 
 ## Orange Chicken
 
