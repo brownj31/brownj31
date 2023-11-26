@@ -15,11 +15,11 @@ smooth-scroll: true
 
 ```
 
-```{r child="cinnamon_rolls/cinnamon_rolls.qmd"}
+```{r child="chocolate_chip_bundt_cake/chocolate_chip_bundt_cake.qmd"}
 
 ```
 
-```{r child="chocolate_chip_bundt_cake/chocolate_chip_bundt_cake.qmd"}
+```{r child="cinnamon_rolls/cinnamon_rolls.qmd"}
 
 ```
 
